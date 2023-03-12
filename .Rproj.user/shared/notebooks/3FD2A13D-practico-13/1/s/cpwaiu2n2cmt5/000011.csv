@@ -1,0 +1,4 @@
+"0","mod2 = lm(lwage ~ tenure+female, data = wage1)
+"
+"2","Error in is.data.frame(data) : object 'wage1' not found
+"
